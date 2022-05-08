@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyBlogs/static/css/main.ecd5fa6c.css",
+    "main.js": "/DailyBlogs/static/js/main.272493dd.js",
+    "index.html": "/DailyBlogs/index.html",
+    "main.ecd5fa6c.css.map": "/DailyBlogs/static/css/main.ecd5fa6c.css.map",
+    "main.272493dd.js.map": "/DailyBlogs/static/js/main.272493dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd5fa6c.css",
+    "static/js/main.272493dd.js"
+  ]
+}
